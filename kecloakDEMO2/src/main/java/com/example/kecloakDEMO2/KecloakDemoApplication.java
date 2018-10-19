@@ -1,4 +1,4 @@
-package com.example.kecloakDEMO;
+package com.example.kecloakDEMO2;
 
 import java.util.Arrays;
 
